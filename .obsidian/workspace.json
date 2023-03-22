@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "1daf6b5456370145",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a1616c06f2ed62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d264d4e108b8e9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/rebase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76bfb93c01ff6eea",
+    "type": "split",
+    "children": [
+      {
+        "id": "192cc3a2b8397699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d234b5a44f855303",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aeea58cb0fddd6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b132313cbc60255",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53fb65bf3b7a01bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "90df30090e7e4506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72d41f8d90e5b45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/rebase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53535e8df0e308d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/rebase.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bb7617791d95d1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0adc3da3a7918b23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/rebase.md"
+              }
+            }
+          },
+          {
+            "id": "3a8e159013d9085e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3a8e159013d9085e",
+  "lastOpenFiles": [
+    "git/assets/Pasted image 20230323021428.png",
+    "git/assets",
+    "git/assets/Pasted image 20230323020341.png",
+    "git/rebase.md"
+  ]
+}
